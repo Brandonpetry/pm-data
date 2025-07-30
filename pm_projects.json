@@ -331,6 +331,13 @@
       "MMCID": "3234",
       "year": "2099",
       "phases": []
+    },
+    {
+      "projectId": "TEST AGAIN",
+      "requiredEffort": "MEMO",
+      "MMCID": "76677",
+      "year": "2099",
+      "phases": []
     }
   ]
 }
