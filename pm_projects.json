@@ -327,7 +327,7 @@
     },
     {
       "projectId": "TEST",
-      "requiredEffort": "CTS",
+      "requiredEffort": "CTS, Memo",
       "MMCID": "3234",
       "year": "2099",
       "phases": []
