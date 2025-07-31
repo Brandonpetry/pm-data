@@ -3,7 +3,7 @@
         {
             "projectId": "Paintsville Dam (10/20/2025)--KY03066",
             "projectType": "PA",
-            "requiredEffort": "Memo, CTS",
+            "requiredEffort": ["Memo, CTS"],
             "MMCID": "4045",
             "year": "2025",
             "lcc": "TEST645",
