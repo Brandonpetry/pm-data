@@ -90,11 +90,10 @@
             {
               "taskId": "Paintsville Dam (10/20/2025)--KY03066_Pre-production_7",
               "taskName": "CTS Review",
-              "status": "Started",
+              "status": "In Progress",
               "assignedTo": "B. Petry",
-              "comments": "",
-              "startDate": null,
-              "endDate": null
+              "startDate": "",
+              "endDate": ""
             },
             {
               "taskId": "Paintsville Dam (10/20/2025)--KY03066_Pre-production_8",
