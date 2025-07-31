@@ -23006,29 +23006,24 @@
       ]
     },
     {
-      "projectType": "PA",
-      "projectId": "ATEST",
-      "requiredEffort": [
-        "MEMO",
-        "CTS"
-      ],
-      "MMCID": "12345",
-      "year": "2099",
-      "lcc": "",
-      "comments": "",
+      "projectId": "test",
+      "requiredEffort": "Memo,HMCAS,CTS,ASH",
+      "MMCID": "6fgds",
+      "year": "2027",
       "phases": [
         {
           "phaseName": "Admin",
           "tasks": [
             {
-              "taskId": "ATEST_Admin_1",
+              "taskId": "1",
               "taskName": "Modeler",
-              "status": "Not Started",
-              "assignedTo": "",
-              "comments": ""
+              "status": "Started",
+              "assignedTo": "M. Durham",
+              "comments": "",
+              "startDate": "07/14/2025"
             },
             {
-              "taskId": "ATEST_Admin_2",
+              "taskId": "2",
               "taskName": "Lead",
               "status": "Not Started",
               "assignedTo": "",
@@ -23040,7 +23035,7 @@
           "phaseName": "Pre-production",
           "tasks": [
             {
-              "taskId": "ATEST_Pre-production_1",
+              "taskId": "3",
               "taskName": "Folder and template setup",
               "status": "Not Started",
               "assignedTo": "",
@@ -23049,7 +23044,7 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_2",
+              "taskId": "4",
               "taskName": "Pre-Production",
               "status": "Not Started",
               "assignedTo": "",
@@ -23058,7 +23053,7 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_3",
+              "taskId": "5",
               "taskName": "PWP Pre-Kickoff",
               "status": "Not Started",
               "assignedTo": "",
@@ -23067,7 +23062,7 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_4",
+              "taskId": "6",
               "taskName": "IQR Database",
               "status": "Not Started",
               "assignedTo": "",
@@ -23076,7 +23071,7 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_5",
+              "taskId": "7",
               "taskName": "Pre-CTS",
               "status": "Not Started",
               "assignedTo": "",
@@ -23085,7 +23080,7 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_6",
+              "taskId": "8",
               "taskName": "Pre-Report",
               "status": "Not Started",
               "assignedTo": "",
@@ -23094,8 +23089,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_7",
-              "taskName": "CTS Review",
+              "taskId": "9",
+              "taskName": "Kickoff Meeting",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23103,8 +23098,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Pre-production_8",
-              "taskName": "Kickoff Meeting",
+              "taskId": "10",
+              "taskName": "Kickoff Mtg Notes & PWP Final",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23117,8 +23112,8 @@
           "phaseName": "Production",
           "tasks": [
             {
-              "taskId": "ATEST_Production_1",
-              "taskName": "Kickoff Mtg Notes & PWP Final",
+              "taskId": "11",
+              "taskName": "Production Task 1",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23126,8 +23121,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_2",
-              "taskName": "Modeling Complete",
+              "taskId": "12",
+              "taskName": "Production Task 2",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23135,8 +23130,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_3",
-              "taskName": "PMQR Complete",
+              "taskId": "13",
+              "taskName": "Production Task 3",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23144,8 +23139,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_4",
-              "taskName": "MRR",
+              "taskId": "14",
+              "taskName": "Production Task 4",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23153,8 +23148,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_5",
-              "taskName": "MRR Edit (HMCAS)",
+              "taskId": "15",
+              "taskName": "Production Task 5",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23162,8 +23157,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_6",
-              "taskName": "MRR Final (HMCAS)",
+              "taskId": "16",
+              "taskName": "Production Task 6",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23171,8 +23166,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_7",
-              "taskName": "Map Dev (HMCAS)",
+              "taskId": "17",
+              "taskName": "Production Task 7",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23180,8 +23175,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_8",
-              "taskName": "Econ Complete",
+              "taskId": "18",
+              "taskName": "Production Task 8",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23189,8 +23184,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_9",
-              "taskName": "Econ Dev (HMCAS/ASH)",
+              "taskId": "19",
+              "taskName": "Production Task 9",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23198,8 +23193,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_10",
-              "taskName": "Modeling/Doc Call",
+              "taskId": "20",
+              "taskName": "Production Task 10",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23207,8 +23202,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_11",
-              "taskName": "Tech Edit (Memo)",
+              "taskId": "21",
+              "taskName": "Production Task 11",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23216,8 +23211,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_12",
-              "taskName": "Tech Edit Final (memo)",
+              "taskId": "22",
+              "taskName": "Production Task 12",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23225,8 +23220,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_13",
-              "taskName": "Mgt Review",
+              "taskId": "23",
+              "taskName": "Production Task 13",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23234,8 +23229,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_14",
-              "taskName": "Mgt Review Final",
+              "taskId": "24",
+              "taskName": "Production Task 14",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23243,8 +23238,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_15",
-              "taskName": "Tech Edit (HMCAS)",
+              "taskId": "25",
+              "taskName": "Production Task 15",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23252,8 +23247,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Production_16",
-              "taskName": "Close-out (Pre-IQR)",
+              "taskId": "26",
+              "taskName": "Production Task 16",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23266,8 +23261,8 @@
           "phaseName": "Post-production",
           "tasks": [
             {
-              "taskId": "ATEST_Post-production_1",
-              "taskName": "IQR Comments",
+              "taskId": "27",
+              "taskName": "Post-production Task 1",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23275,8 +23270,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_2",
-              "taskName": "Quality PPT",
+              "taskId": "28",
+              "taskName": "Post-production Task 2",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23284,8 +23279,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_3",
-              "taskName": "IQR Backcheck",
+              "taskId": "29",
+              "taskName": "Post-production Task 3",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23293,8 +23288,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_4",
-              "taskName": "Risk Database Input",
+              "taskId": "30",
+              "taskName": "Post-production Task 4",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23302,8 +23297,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_5",
-              "taskName": "Risk Database Review",
+              "taskId": "31",
+              "taskName": "Post-production Task 5",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23311,8 +23306,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_6",
-              "taskName": "Signature MIC",
+              "taskId": "32",
+              "taskName": "Post-production Task 6",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
@@ -23320,8 +23315,8 @@
               "comments": ""
             },
             {
-              "taskId": "ATEST_Post-production_7",
-              "taskName": "Signature RBS",
+              "taskId": "33",
+              "taskName": "Post-production Task 7",
               "status": "Not Started",
               "assignedTo": "",
               "startDate": "",
