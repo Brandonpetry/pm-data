@@ -741,7 +741,6 @@
               "taskId": "ATEST_Pre-production_7",
               "taskName": "CTS Review",
               "status": "Not Started",
-              "assignedTo": "",
               "startDate": null,
               "endDate": null,
               "comments": ""
