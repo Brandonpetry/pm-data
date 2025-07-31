@@ -667,9 +667,11 @@
             {
               "taskId": "ATEST_Admin_1",
               "taskName": "Modeler",
-              "status": "In Progress",
-              "assignedTo": "",
-              "comments": ""
+              "status": "Complete",
+              "assignedTo": "TEST",
+              "comments": "",
+              "startDate": "08/13/2025",
+              "endDate": "08/23/2025"
             },
             {
               "taskId": "ATEST_Admin_2",
