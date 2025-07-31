@@ -674,7 +674,7 @@
             {
               "taskId": "ATEST_Admin_2",
               "taskName": "Lead",
-              "status": "Not Started",
+              "status": "In Progress",
               "assignedTo": "",
               "comments": ""
             }
