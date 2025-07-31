@@ -666,6 +666,327 @@
           ]
         }
       ]
+    },
+    {
+      "projectId": null,
+      "requiredEffort": "MEMO",
+      "MMCID": "123456",
+      "year": null,
+      "phases": [
+        {
+          "phaseName": "Admin",
+          "tasks": [
+            {
+              "taskId": "1",
+              "taskName": "Modeler",
+              "status": "Not Started",
+              "assignedTo": "",
+              "comments": ""
+            },
+            {
+              "taskId": "2",
+              "taskName": "Lead",
+              "status": "Not Started",
+              "assignedTo": "",
+              "comments": ""
+            }
+          ]
+        },
+        {
+          "phaseName": "Pre-production",
+          "tasks": [
+            {
+              "taskId": "3",
+              "taskName": "Folder and template setup",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/12/25",
+              "endDate": "02/13/25",
+              "comments": ""
+            },
+            {
+              "taskId": "4",
+              "taskName": "Pre-Production",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/14/25",
+              "endDate": "02/15/25",
+              "comments": ""
+            },
+            {
+              "taskId": "5",
+              "taskName": "PWP Pre-Kickoff",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/16/25",
+              "endDate": "02/17/25",
+              "comments": ""
+            },
+            {
+              "taskId": "6",
+              "taskName": "IQR Database",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/18/25",
+              "endDate": "02/19/25",
+              "comments": ""
+            },
+            {
+              "taskId": "7",
+              "taskName": "Pre-CTS",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/20/25",
+              "endDate": "02/21/25",
+              "comments": ""
+            },
+            {
+              "taskId": "8",
+              "taskName": "Pre-Report",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/22/25",
+              "endDate": "02/23/25",
+              "comments": ""
+            },
+            {
+              "taskId": "9",
+              "taskName": "Kickoff Meeting",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/24/25",
+              "endDate": "02/25/25",
+              "comments": ""
+            },
+            {
+              "taskId": "10",
+              "taskName": "Kickoff Mtg Notes & PWP Final",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "02/26/25",
+              "endDate": "02/27/25",
+              "comments": ""
+            }
+          ]
+        },
+        {
+          "phaseName": "Production",
+          "tasks": [
+            {
+              "taskId": "11",
+              "taskName": "Production Task 1",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "12",
+              "taskName": "Production Task 2",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "13",
+              "taskName": "Production Task 3",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "14",
+              "taskName": "Production Task 4",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "15",
+              "taskName": "Production Task 5",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "16",
+              "taskName": "Production Task 6",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "17",
+              "taskName": "Production Task 7",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "18",
+              "taskName": "Production Task 8",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "19",
+              "taskName": "Production Task 9",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "20",
+              "taskName": "Production Task 10",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "21",
+              "taskName": "Production Task 11",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "22",
+              "taskName": "Production Task 12",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "23",
+              "taskName": "Production Task 13",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "24",
+              "taskName": "Production Task 14",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "25",
+              "taskName": "Production Task 15",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "26",
+              "taskName": "Production Task 16",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            }
+          ]
+        },
+        {
+          "phaseName": "Post-production",
+          "tasks": [
+            {
+              "taskId": "27",
+              "taskName": "Post-production Task 1",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "28",
+              "taskName": "Post-production Task 2",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "29",
+              "taskName": "Post-production Task 3",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "30",
+              "taskName": "Post-production Task 4",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "31",
+              "taskName": "Post-production Task 5",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "32",
+              "taskName": "Post-production Task 6",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            },
+            {
+              "taskId": "33",
+              "taskName": "Post-production Task 7",
+              "status": "Not Started",
+              "assignedTo": "",
+              "startDate": "",
+              "endDate": "",
+              "comments": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
