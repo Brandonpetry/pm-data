@@ -740,10 +740,11 @@
             {
               "taskId": "ATEST_Pre-production_7",
               "taskName": "CTS Review",
-              "status": "Not Started",
+              "status": "In Progress",
               "startDate": null,
               "endDate": null,
-              "comments": ""
+              "comments": "",
+              "assignedTo": "B. Petry"
             },
             {
               "taskId": "ATEST_Pre-production_8",
