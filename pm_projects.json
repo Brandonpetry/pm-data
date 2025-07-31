@@ -369,11 +369,9 @@
             {
               "taskId": "TEST1_Pre-production_2",
               "taskName": "Pre-Production",
-              "status": "Not Started",
-              "assignedTo": "",
+              "status": "In Progress",
               "startDate": "02/13/25",
-              "endDate": "03/03/25",
-              "comments": ""
+              "endDate": "03/03/25"
             },
             {
               "taskId": "TEST1_Pre-production_3",
