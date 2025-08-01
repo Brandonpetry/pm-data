@@ -23058,9 +23058,9 @@
             {
               "taskId": "Example Dam_Pre-production_3",
               "taskName": "PWP Pre-Kickoff",
-              "status": "Not Started",
-              "assignedTo": "",
-              "startDate": "",
+              "status": "In Progress",
+              "assignedTo": "Assigned",
+              "startDate": "08/04/2025",
               "endDate": "",
               "comments": ""
             },
