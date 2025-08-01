@@ -5,7 +5,7 @@
       "projectType": "PA",
       "requiredEffort": "Memo, CTS",
       "MMCID": "4045",
-      "year": "2025",
+      "year": "2026",
       "lcc": "TEST645",
       "comments": "4/25/25 TH: Assigned creation of RMC Storage 4 folders. 3/28/25 TH: Updates complete. 3/28/25 TH: Renaming of files assigned. 3/14/25 MD: PWP map corrected, refinalized. 3/4/25 MD: PWP for signature. 3/3/25 MD: Pre-production complete, PWP pre-kickoff final. 2/14/25 TH: Pre-CTS/pre-report assigned. 2/13/25 MD: PM and modeling PWP input requested, awaiting MMC ID for IQR database entry. 2/13/25 TH: Forlders complete; pre-production assigned. 2/12/25 TH: Folder set up assigned. ",
       "phases": [
@@ -15,7 +15,7 @@
             {
               "taskId": "Paintsville Dam (10/20/2025)--KY03066_Admin_1",
               "taskName": "Modeler",
-              "status": "Complete",
+              "status": "Not Started",
               "assignedTo": "Burant",
               "comments": "",
               "startDate": "01/01/2025"
@@ -80,7 +80,7 @@
             {
               "taskId": "Paintsville Dam (10/20/2025)--KY03066_Pre-production_6",
               "taskName": "Pre-Report",
-              "status": "Completed",
+              "status": "Complete",
               "assignedTo": "Z. Bunge",
               "comments": "",
               "startDate": "02/14/25",
@@ -89,7 +89,7 @@
             {
               "taskId": "Paintsville Dam (10/20/2025)--KY03066_Pre-production_7",
               "taskName": "CTS Review",
-              "status": "Started",
+              "status": "Complete",
               "assignedTo": "B. Petry",
               "comments": "",
               "startDate": null,
@@ -323,7 +323,8 @@
             }
           ]
         }
-      ]
+      ],
+      "mmcid": "12548"
     },
     {
       "projectId": "Sardis Dam (10/20/2025)--OK22199",
