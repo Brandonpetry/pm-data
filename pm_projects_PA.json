@@ -23009,8 +23009,8 @@
     {
       "projectType": "PA",
       "projectId": "Example Dam",
-      "requiredEffort": "Memo, HMCAS, ASH, CTS",
-      "mmcid": "",
+      "requiredEffort": "Memo, HMCAS, ASH",
+      "mmcid": "255",
       "year": "2029",
       "lcc": "",
       "comments": "",
@@ -23021,15 +23021,15 @@
             {
               "taskId": "Example Dam_Admin_1",
               "taskName": "Modeler",
-              "status": "Not Started",
-              "assignedTo": "",
+              "status": "In Progress",
+              "assignedTo": "Assigned",
               "comments": ""
             },
             {
               "taskId": "Example Dam_Admin_2",
               "taskName": "Lead",
-              "status": "Not Started",
-              "assignedTo": "",
+              "status": "In Progress",
+              "assignedTo": "Assigned",
               "comments": ""
             }
           ]
@@ -23040,17 +23040,17 @@
             {
               "taskId": "Example Dam_Pre-production_1",
               "taskName": "Folder and template setup",
-              "status": "Not Started",
-              "assignedTo": "",
-              "startDate": "",
-              "endDate": "",
+              "status": "Complete",
+              "assignedTo": "Assigned",
+              "startDate": "08/01/2025",
+              "endDate": "08/04/2025",
               "comments": ""
             },
             {
               "taskId": "Example Dam_Pre-production_2",
               "taskName": "Pre-Production",
-              "status": "Not Started",
-              "assignedTo": "",
+              "status": "In Progress",
+              "assignedTo": "Assigned",
               "startDate": "",
               "endDate": "",
               "comments": ""
